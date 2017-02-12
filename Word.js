@@ -1,4 +1,4 @@
-var letter = require('./letter');
+var letter = require('./Letter');
 
 /**
  * Setup the word.

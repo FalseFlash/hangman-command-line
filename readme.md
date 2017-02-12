@@ -1,0 +1,2 @@
+## Node.JS Command Line Hangman [![CircleCI](https://circleci.com/gh/FalseFlash/hangman-command-line.svg?style=svg)](https://circleci.com/gh/FalseFlash/hangman-command-line)
+A console based hangman game built in Node.JS.
