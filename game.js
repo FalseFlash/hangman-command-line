@@ -1,5 +1,5 @@
 var prompt = require('prompt');
-var word = require('./word');
+var word = require('./Word');
 
 var wordArray = [
     'tank',
