@@ -72,6 +72,9 @@ Game.prototype.promptUser = function () {
     });
 };
 
+if (process.argv[2] == 'test')
+    return "OK";
+
 console.log('Guess the word:');
 var curGame = new Game();
 
